@@ -1,4 +1,4 @@
-# Spotify Sights
+# SpotifySights
 Notebook where you can learn how to use Spotify's API
 
 
