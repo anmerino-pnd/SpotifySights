@@ -10,3 +10,6 @@ __pycache__/
 
 # Credentials file
 /credentials.txt
+
+# Images 
+figures/
