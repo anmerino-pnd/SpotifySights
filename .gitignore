@@ -1,7 +1,9 @@
+ignore/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
 # Credentials file
-/statsify/credentials.txt
+/credentials.txt
